@@ -1,0 +1,3 @@
+[submodule "EventBusIJ"]
+	path = EventBusIJ
+	url = git://github.com/ianmjones/EventBusIJ.git
