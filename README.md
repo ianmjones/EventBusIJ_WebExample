@@ -2,11 +2,13 @@
 
 A simple example web application project using EventBusIJ, the simple Event Bus for Desktop and Web Edition Real Studio projects.
 
-## Important ##
+## How To Get ##
+
+[Download, clone or fork from GitHub](https://github.com/ianmjones/EventBusIJ_WebExample)
 
 For best results, please clone in the following way to ensure you get a populated EventBusIJ directory:
 
-	git clone --recursive git://github.com/ianmjones/EventBusIJ_WebExample.git
+	git clone --recursive https://github.com/ianmjones/EventBusIJ_WebExample.git
 
 GitHub's ZIP option will **not** do this for you as it will not include the EventBusIJ submodule!
 
